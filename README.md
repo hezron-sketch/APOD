@@ -31,6 +31,7 @@ A Python application that automatically sets NASA's Astronomy Picture of the Day
 ```bash
 pip install requests pillow python-dateutil tk
 
+```
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/69406e88-efa1-4db6-b3e4-feb71a486df5)
 

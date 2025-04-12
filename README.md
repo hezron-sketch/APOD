@@ -33,5 +33,6 @@ pip install requests pillow python-dateutil tk
 
 ```
 ## Screenshot
-![image](https://github.com/user-attachments/assets/69406e88-efa1-4db6-b3e4-feb71a486df5)
+![apod](https://github.com/user-attachments/assets/d098e294-c418-488b-8fd6-276a49de597a)
+
 
